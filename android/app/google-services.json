@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195088892221",
+    "firebase_url": "https://notekeeper-fd7cf.firebaseio.com",
+    "project_id": "notekeeper-fd7cf",
+    "storage_bucket": "notekeeper-fd7cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195088892221:android:43323d24766d48c9a10554",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notekeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195088892221-lbdqnld7ggmr69tnh52146t9c83j90j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx91CjbMxS8PCHce1OVORTxR0OG-3howE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195088892221-lbdqnld7ggmr69tnh52146t9c83j90j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
